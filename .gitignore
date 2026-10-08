@@ -1,0 +1,10 @@
+# Lab-generated files
+*.exe
+*.pcap
+*.pcapng
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

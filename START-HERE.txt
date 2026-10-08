@@ -1,0 +1,22 @@
+SNORT & FIREWALL RULES — GITHUB WORKFLOW
+
+1. Download and extract the ZIP.
+2. Open Git Bash.
+3. Enter the extracted folder:
+   cd /path/to/snort-firewall-lab-github
+4. Open README.md first.
+5. Complete the lab and replace the empty PNG files in screenshots/ with your actual screenshots.
+6. Run the commands in COMMANDS.md or use gitbash-workflow.sh as your Git workflow guide.
+7. Create an empty GitHub repository named:
+   snort-firewall-lab
+8. Add your GitHub remote:
+   git remote add origin https://github.com/YOUR-USERNAME/snort-firewall-lab.git
+9. Push:
+   git add .
+   git commit -m "Document Snort and firewall rules lab"
+   git push -u origin main
+
+IMPORTANT:
+- Do not upload passwords, tokens, or personal credentials.
+- The .gitignore excludes *.exe and *.pcap files.
+- Replace screenshot placeholders with your own evidence.
